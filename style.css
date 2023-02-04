@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(113, 158, 243);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: rgb(3, 3, 99);
+}
+
+p{
+    color: white;
+    margin-top: 50px;;
+}
+
+form{
+    color: white;
+    margin-top: 120px;
+}
+
+.tentativa{
+    margin-top: 45px;;
+}
