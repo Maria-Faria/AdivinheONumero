@@ -7,4 +7,4 @@ Esse projeto consiste em um "jogo", no qual o usuário deve tentar adivinhar o n
 - Quando o usuário acerta, o programa sorteia outro número, permitindo que o usuário jogue quantas vezes quiser
 
 ##
-<a href="https://maria-faria.github.io/AdivinheONumero/">🖥️ Visualize o projeto aqui</a>
+<a href="https://maria-faria.github.io/AdivinheONumero/" target= "_blank">🖥️ Visualize o projeto aqui</a>
